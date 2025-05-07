@@ -1,4 +1,21 @@
 {
   "projectName": "vikash-kothary",
-  "projectOwner": "vikash-kothary"
+  "projectOwner": "vikash-kothary",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "vikashkothary",
+      "name": "Vikash Kothary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4839435?v=4",
+      "profile": "http://vikash-kothary.github.io",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ]
 }
